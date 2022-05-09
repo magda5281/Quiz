@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf17d62f-d5a6-4b1c-bcc9-cb835669689e" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quiz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf17d62f-d5a6-4b1c-bcc9-cb835669689e" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,8 +62,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652104321140</updated>
-      <workItem from="1652104323966" duration="10678000" />
+      <workItem from="1652104323966" duration="11152000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1652124517897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652124517897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
