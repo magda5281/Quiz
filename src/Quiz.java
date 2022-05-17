@@ -1,10 +1,18 @@
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.Objects;
 import java.util.Scanner;
 
 public class Quiz {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
+        WelcomePage.welcome();
+
+
+
+
         //data/questions - could I move these questions to separate file????How??
         String q1 = """
                 What is 4+5?
